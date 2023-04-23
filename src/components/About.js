@@ -1,5 +1,7 @@
 import React from "react";
 
+const image = "https://i.imgur.com/mV8PQxj.gif";
+
 function About() {
   return (
     <div id="about">
@@ -9,3 +11,5 @@ function About() {
     </div>
   );
 }
+
+export default About;
